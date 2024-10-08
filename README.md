@@ -1,4 +1,6 @@
 How RAG (Retrieval-Augmented Generation) Works?
+
+
 Ans:RAG combines two major approaches in Natural Language Processing (NLP): retrieval-based models and generative models. It leverages the strengths of both techniques to create a system that generates responses grounded in factual information retrieved from a knowledge base.
 
 Here's how it works step by step:
